@@ -1,18 +1,18 @@
 [
     {
-        "imageUrl": "https://example.com/image1.jpg",
+        "imageUrl": "https://i.imgur.com/bYTo3rr.jpeg",
         "title": "checking card 1",
         "description": "Bringing you within reach of the crypto universe!",
         "color": "#2F4F7F"
     },
     {
-        "imageUrl": "https://example.com/image2.jpg",
+        "imageUrl": "https://i.imgur.com/izn99FO.jpeg",
         "title": "checking card 2",
         "description": "Explore the future of technology!",
         "color": "#455A64"
     },
     {
-        "imageUrl": "https://example.com/image3.jpg",
+        "imageUrl": "https://i.imgur.com/zDSfo38.jpeg",
         "title": "checking card 3",
         "description": "Be part of something big!",
         "color": "#663333"
