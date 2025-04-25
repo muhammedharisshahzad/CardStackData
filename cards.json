@@ -1,0 +1,20 @@
+[
+    {
+        "imageUrl": "https://example.com/image1.jpg",
+        "title": "Embark on a Galactic Journey!",
+        "description": "Bringing you within reach of the crypto universe!",
+        "color": "#2F4F7F"
+    },
+    {
+        "imageUrl": "https://example.com/image2.jpg",
+        "title": "Discover New Horizons",
+        "description": "Explore the future of technology!",
+        "color": "#455A64"
+    },
+    {
+        "imageUrl": "https://example.com/image3.jpg",
+        "title": "Join the Revolution",
+        "description": "Be part of something big!",
+        "color": "#663333"
+    }
+]
