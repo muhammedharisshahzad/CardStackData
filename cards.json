@@ -1,20 +1,23 @@
 [
     {
         "imageUrl": "https://i.imgur.com/bYTo3rr.jpeg",
-        "title": "checking card 1",
+        "title": "checking card again 1",
         "description": "Bringing you within reach of the crypto universe!",
         "color": "#2F4F7F"
+        "url": "https://example.com/link1"
     },
     {
         "imageUrl": "https://i.imgur.com/izn99FO.jpeg",
-        "title": "checking card 2",
+        "title": "checking card again 2",
         "description": "Explore the future of technology!",
         "color": "#455A64"
+        "url": "https://example.com/link1"
     },
     {
         "imageUrl": "https://i.imgur.com/zDSfo38.jpeg",
-        "title": "checking card 3",
+        "title": "checking card again 3",
         "description": "Be part of something big!",
         "color": "#663333"
+        "url": "https://example.com/link1"
     }
 ]
