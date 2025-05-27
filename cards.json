@@ -1,31 +1,17 @@
 [
-    {
-        "imageUrl": "https://i.imgur.com/FJ0F9TD.jpeg",
-        "title": "Meezan Internship Program",
-        "description": "This program follows a standardized recruitment process, fostering the development of high quality human capital for the Bank.",
-        "color": "#2F4F7F",
-        "url": "https://www.meezanbank.com/careers/"
-    },
-    {
-        "imageUrl": "https://i.imgur.com/P0P9vPJ.jpeg",
-        "title": "BIOMISA",
-        "description": "BIOMISA is a reaseach group of academicians, reasearchers and industrialists.",
+       {
+        "imageUrl": "https://postimg.cc/4ms1ftBw",
+        "title": "Easypaisa",
+        "description": "Summer Internship 2025 - Khi, Lhr & Isl ",
         "color": "#455A64",
-        "url": "biomisa.sines@gmail.com"
+        "url": "https://www.linkedin.com/jobs/view/4230581716"
     },
+    
     {
-        "imageUrl": "https://i.imgur.com/mTZSV58.jpeg",
-        "title": "RAPIDEV",
-        "description": "An opportunity to learn build and contribute at one of the Pakistan's fastest growing tech companies. Click on the card to fill the form.",
-        "color": "#663333",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf9YrGXas3IRIp5uNpy-0AKF_NGw4IJ0l_PrjAGMW3UZRRdeg/viewform"
-    },
-
-    {
-        "imageUrl": "https://i.imgur.com/BtZjXwd.jpeg",
+        "imageUrl": "https://postimg.cc/hzq9NrVg",
         "title":"PM youth Laptop Scheme",
         "description":"Empowering students across Pakistan with cutting-edge Technology. To apply click on the card.",
         "color": "#2C2F36",
-        "url":"https://laptop.pmyp.gov.pk/"
+        "url":"https://pmyp.gov.pk/"
     }
 ]
