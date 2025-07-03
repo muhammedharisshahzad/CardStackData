@@ -1,5 +1,12 @@
 [
-
+  {
+    "imageUrl": "https://i.postimg.cc/3JG9nN3Z/091fbfd9-7e40-4343-a73d-cc6880cada8e.jpg",
+    "title": "Markaz Summer Internship",
+    "description": "Kickstart your career with real-world experience!Markaz is offering Summer Internship opportunities in Computer Science, Media, and Business. Collaborate, create, and grow with industry mentors. Don't just learn—make an impact.👉 Click on card to end your resume",
+    "color": "#0F172A",
+    "url": "mailto:hr@markaz.pk"
+  },
+  
 
   {
     "imageUrl": "https://i.postimg.cc/VN6g3Y9v/Whats-App-Image-2025-07-01-at-16-27-29-51a0365e.jpg",
@@ -8,15 +15,7 @@
     "color": "#333333",
     "url": "mailto:career@multinet.com.pk"
   },
-  
-  {
-    "imageUrl": "https://i.postimg.cc/yYdm6Mwz/d173ecc5-8d81-47b6-933e-7b80cb0c730a.jpg",
-    "title": "HAIER SUMMER INTERNSHIP PROGRAMME",
-    "description": "Haier Internship 2025 for Engineering, MBA/BBA, and CS students (CGPA 3.0). Apply by July 2, 2025, To send your resumes click on the card.",
-    "color": "#1A2A44",
-    "url": "mailto:talent@haier.com.pk"
-  },
- 
+
   {
     "imageUrl": "https://i.postimg.cc/vHjxNhyy/National-Foods-Refreshes-Its-Packaging-For-The-First-Time-In-A-Decade.jpg",
     "title": "NATIONAL FOODS LIMITED",
