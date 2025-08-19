@@ -1,5 +1,13 @@
 [
 
+  {
+  "imageUrl": "https://i.ibb.co/mVQ9mhfx/56bad5051b60e6e241d7d67c191f75db.webp",
+  "title": "EVSim Internship Program - Air University",
+  "description": "8-week remote internship on EV technology, modeling & simulation using Simulink and XCOS. Eligible for EE students/graduates with strong interest in EVs & control systems.",
+  "color": "#228B22",
+  "url": "mailto:info@myevacademy.com"
+}
+
 
   {
     "imageUrl": "https://ik.imagekit.io/8dwwgulux/1755260509031.jpeg?updatedAt=1755271729040",
@@ -75,6 +83,7 @@
   }
 
 ]
+
 
 
 
