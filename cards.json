@@ -1,5 +1,15 @@
 [
 
+
+
+  {
+    "imageUrl": "https://ik.imagekit.io/8dwwgulux/1756813751102.jpeg?updatedAt=1756884600079",
+    "title": "Xgrid.co Internship Opportunity",
+    "description": "Xgrid.co is hiring interns! Final-semester students or fresh graduates from Industrial Design (CS not eligible) can apply. Paid internship PKR 35,000/month with hands-on projects and AI-based training.",
+    "color": "#1E1E1E",
+    "url": "mailto:hr@xgrid.co"
+},
+
   {
   "imageUrl": "https://i.ibb.co/mVQ9mhfx/56bad5051b60e6e241d7d67c191f75db.webp",
   "title": "EVSim Internship Program",
@@ -83,6 +93,7 @@
   }
 
 ]
+
 
 
 
