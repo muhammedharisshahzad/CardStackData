@@ -1,14 +1,19 @@
 [
+  {
+    "imageUrl": "https://ik.imagekit.io/8dwwgulux/554810677_1088947020071296_8928432992522586135_n.jpg?updatedAt=1759335795803",
+    "title": "🎓 Honhaar Undergraduate Scholarship 2025",
+    "description": "Punjab Govt offers 30,000 merit-based scholarships covering full tuition fees for 4–5 year undergraduate programs. Selection: 30% Matric + 70% Intermediate marks. Apply online by Oct 26, 2025. Click on card to apply!",
+    "color": "#800000",
+    "url": "https://honhaarscholarship.punjabhec.gov.pk"
+  },
 
   {
- "imageUrl":"https://ik.imagekit.io/8dwwgulux/WhatsApp%20Image%202025-09-30%20at%2015.10.23_687fe591.jpg?updatedAt=1759238972148",
+    "imageUrl":"https://ik.imagekit.io/8dwwgulux/WhatsApp%20Image%202025-09-30%20at%2015.10.23_687fe591.jpg?updatedAt=1759238972148",
     "title":"🌟 AI Wrapper Competition 🌟",
     "description":"Ignite (Ministry of IT & Telecom) presents Pakistan’s first AI Wrapper Competition 2025 with PKR 8.75M prizes. Open to FYPs, MS & PhD scholars in EdTech, HealthTech, GovTech, FinTech & Agri/ClimateTech. Register by 10 Oct 2025. To apply click on the card.",
     "color": "#2A0A3E",
     "url": "https://ignitecode.org.pk/aiwrapper"
-  
   },
-
 
   {
     "imageUrl": "https://ik.imagekit.io/8dwwgulux/1756813751102.jpeg?updatedAt=1756884600079",
@@ -16,25 +21,23 @@
     "description": "Xgrid.co is hiring interns! Final-semester students or fresh graduates from Industrial Design (CS not eligible) can apply. Paid internship PKR 35,000/month with hands-on projects and AI-based training.",
     "color": "#1E1E1E",
     "url": "mailto:hr@xgrid.co"
-},
+  },
 
   {
-  "imageUrl": "https://i.ibb.co/mVQ9mhfx/56bad5051b60e6e241d7d67c191f75db.webp",
-  "title": "EVSim Internship Program",
-  "description": "8-week remote internship on EV technology, modeling & simulation using Simulink and XCOS. Eligible for EE students/graduates with strong interest in EVs & control systems.",
-  "color": "#228B22",
-  "url": "mailto:info@myevacademy.com"
-},
-
+    "imageUrl": "https://i.ibb.co/mVQ9mhfx/56bad5051b60e6e241d7d67c191f75db.webp",
+    "title": "EVSim Internship Program",
+    "description": "8-week remote internship on EV technology, modeling & simulation using Simulink and XCOS. Eligible for EE students/graduates with strong interest in EVs & control systems.",
+    "color": "#228B22",
+    "url": "mailto:info@myevacademy.com"
+  },
 
   {
     "imageUrl": "https://ik.imagekit.io/8dwwgulux/1755260509031.jpeg?updatedAt=1755271729040",
     "title": "VR internship at NASTP, NUST",
-    "description": "Join our team for an exciting onsite internship opportunity in Virtual Reality!f you’re passionate about VR and eager to learn, send your resume by clicking on the card. Location NUST, NASTP H-12 Islamabad, Duration 1 month-onsite.",
+    "description": "Join our team for an exciting onsite internship opportunity in Virtual Reality! If you’re passionate about VR and eager to learn, send your resume by clicking on the card. Location NUST, NASTP H-12 Islamabad, Duration 1 month-onsite.",
     "color": "#2C2C2C",
     "url": "mailto:hr@mim.archi"
   },
-
 
   {
     "imageUrl": "https://i.ibb.co/mVQ9mhfx/56bad5051b60e6e241d7d67c191f75db.webp",
@@ -44,9 +47,6 @@
     "url": "https://docs.google.com/forms/d/e/1FAIpQLSfNZMh-2HJXwG_arq9mzhrJpwr0YoDi0mut2ZXEXpT-0CfYHw/viewform"
   },
 
-
-       
-
   {
     "imageUrl": "https://ik.imagekit.io/8dwwgulux/Screenshot%202025-08-06%20133236.png?updatedAt=1754469234967",
     "title": "Career Pakistan Internships",
@@ -54,7 +54,6 @@
     "color": "#006B3C",
     "url": "https://docs.google.com/forms/d/1Xyq3lITcpVILVOMBSuu5zQt7n5dfxRZIUAKYO6gAkz4/viewform?edit_requested=true"
   },
-
 
   {
     "imageUrl": "https://i.ibb.co/mVQ9mhfx/56bad5051b60e6e241d7d67c191f75db.webp",
@@ -64,35 +63,11 @@
     "url": "https://docs.google.com/forms/d/e/1FAIpQLSdZdzBmuVHpU5_2AZFBDKtC__4FojuQf7jHL7jCZOdcsZ0xcQ/viewform"
   },
 
-
-    {
+  {
     "imageUrl": "https://ik.imagekit.io/8dwwgulux/1754286359296.jpeg?updatedAt=1754290991631",
     "title": "MetaDots Internship Program",
     "description": "Metadots is offering a paid 10–12 week internship in Cross-Platform App Development. Get real-world experience, work onsite with experts, and learn the latest tools. A great opportunity to grow and possibly land a full-time role. To apply, click on the card.",
     "color": "#2E7D32",
     "url": "https://docs.google.com/forms/d/e/1FAIpQLSd4wlZut-ICl1W43fg8xalFccOcWbWCQIVjo8Bfh8oSEwbG3w/viewform"
   }
-
-
-  
-
-
-
-
-
-  
-
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
