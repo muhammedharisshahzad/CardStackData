@@ -1,15 +1,19 @@
 [
-
+  {
+    "imageUrl": "https://i.ibb.co/yn7dhWqs/gemini-student-plan.jpg",
+    "title": "💫 Google Gemini Free Pro Plan for Students",
+    "description": "Get Gemini Advanced (2.5 Pro model) absolutely free for 1 year! Enjoy unlimited chats, image uploads, quiz generations, deep research, and 2TB storage. Sign in with your AU student email to access. Offer valid till Dec 9, 2025.",
+    "color": "#1A73E8",
+    "url": "https://gemini.google/students/"
+  },
 
   {
-  "imageUrl": "https://ik.imagekit.io/8dwwgulux/WhatsApp%20Image%202025-10-09%20at%2022.24.47_bcaad637.jpg?updatedAt=1760096442204",
-  "title": "🚀 GDGoC Team Recruitments 2025-26",
-  "description": "Recruitments for all GDG on Campus Air University teams are now open! Join a passionate community, learn, build, and grow together. Apply before Saturday (11 Oct 2025)! To apply click on the card.",
-  "color": "#0F4C81",
-  "url": "https://forms.gle/EuM8QMH6mR2PxXx17"
-},
-
-  
+    "imageUrl": "https://ik.imagekit.io/8dwwgulux/WhatsApp%20Image%202025-10-09%20at%2022.24.47_bcaad637.jpg?updatedAt=1760096442204",
+    "title": "🚀 GDGoC Team Recruitments 2025-26",
+    "description": "Recruitments for all GDG on Campus Air University teams are now open! Join a passionate community, learn, build, and grow together. Apply before Saturday (11 Oct 2025)! To apply click on the card.",
+    "color": "#0F4C81",
+    "url": "https://forms.gle/EuM8QMH6mR2PxXx17"
+  },
 
   {
     "imageUrl": "https://ik.imagekit.io/8dwwgulux/554810677_1088947020071296_8928432992522586135_n.jpg?updatedAt=1759335795803",
@@ -20,9 +24,9 @@
   },
 
   {
-    "imageUrl":"https://ik.imagekit.io/8dwwgulux/WhatsApp%20Image%202025-09-30%20at%2015.10.23_687fe591.jpg?updatedAt=1759238972148",
-    "title":"🌟 AI Wrapper Competition 🌟",
-    "description":"Ignite (Ministry of IT & Telecom) presents Pakistan’s first AI Wrapper Competition 2025 with PKR 8.75M prizes. Open to FYPs, MS & PhD scholars in EdTech, HealthTech, GovTech, FinTech & Agri/ClimateTech. Register by 10 Oct 2025. To apply click on the card.",
+    "imageUrl": "https://ik.imagekit.io/8dwwgulux/WhatsApp%20Image%202025-09-30%20at%2015.10.23_687fe591.jpg?updatedAt=1759238972148",
+    "title": "🌟 AI Wrapper Competition 🌟",
+    "description": "Ignite (Ministry of IT & Telecom) presents Pakistan’s first AI Wrapper Competition 2025 with PKR 8.75M prizes. Open to FYPs, MS & PhD scholars in EdTech, HealthTech, GovTech, FinTech & Agri/ClimateTech. Register by 10 Oct 2025. To apply click on the card.",
     "color": "#2A0A3E",
     "url": "https://ignitecode.org.pk/aiwrapper"
   },
@@ -50,10 +54,4 @@
     "color": "#2C2C2C",
     "url": "mailto:hr@mim.archi"
   }
-
-  
 ]
-
-
-
-
